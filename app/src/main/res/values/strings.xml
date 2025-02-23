@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Viatge Espacial</string>
+    <string name="rocket_img_description">Imatge d\'un coet</string>
+    <string name="test">Test</string>
+    <string name="name_entry">Introdueix el nom</string>
+    <string name="age_entry">Introdueix l\'edat</string>
+</resources>
