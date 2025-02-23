@@ -16,10 +16,3 @@ Summary screen displaying the selected travel details.
 ## 🛠️ Technologies Used
 
 Kotlin + Jetpack Compose
-
-## 🎮 How It Works
-
-The user enters their name and age.
-They select a planet as their destination.
-A summary screen displays the provided information.
-The user can restart the process if desired.
